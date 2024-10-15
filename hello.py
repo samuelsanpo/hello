@@ -6,3 +6,4 @@ user_name = input('Write your name: ')
 
 #Welcome the user
 print('Welcome to python ' + user_name)
+print('Enjoy!')
